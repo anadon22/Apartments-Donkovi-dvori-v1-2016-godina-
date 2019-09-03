@@ -1,0 +1,80 @@
+@charset "utf-8";
+/* CSS Document */
+
+#container {
+    width: 968px;
+    background: #FFF;
+    margin: 0 auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    overflow: hidden;
+}
+#main_image {
+	background-image: url(images/2048.jpg);
+	background-repeat: no-repeat;
+	height: 476px;
+	width: 714px;
+	position: relative;
+	background-attachment: fixed;
+}
+#left_column, #center_column, #right_column {
+    width: 316px;
+    float: left;
+}
+#center_column, #right_column {
+    margin-left: 10px;
+}
+h1 {
+    font-family: sarina, serif;
+    font-size: 96px;
+    margin: 0;
+    float: left;
+}
+#header {
+    color: #FFF;
+    background-color: #000;
+    height: 100px;
+    position: relative;
+}
+body {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    color: #3B3B3B;
+    background-color: #FFF;
+    margin: 0px;
+}
+#header p {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 30px;
+    font-variant: small-caps;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 15px;
+}
+#header a {
+    font-size: 20px;
+    font-weight: bold;
+    font-variant: small-caps;
+    color: #FFF;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    width: 100px;
+}
+#header ul li {
+    float: left;
+}
+#header ul {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+	position: absolute;
+	right: 7px;
+	bottom: -37px;
+}
+#main_text {
+    background-color: #FFF;
+    width: 300px;
+    position: absolute;
+    right: 60px;
+    bottom: 60px;
+}

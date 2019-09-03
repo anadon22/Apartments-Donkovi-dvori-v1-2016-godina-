@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.0</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>20</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>apartment2</GalleryName>
+            <GallerySuffix>2</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect></ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>100</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>D:/Program Files (x86)/WOW Slider/templates/backgnd/catalyst/</ImageTemplate>
+            <ImageTemplateName>Catalyst</ImageTemplateName>
+            <ImageWidth>960</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/ANAMARIA D/Documents/Apartments Donkov dvori/apartment2.html</PublishFileName>
+            <PublishIndex>apartment2.html</PublishIndex>
+            <PublishPath>C:/Users/ANAMARIA D/Documents/Apartments Donkov dvori</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>page</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>37</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#3c506b</TemplateColor>
+            <TemplateFont>Cuprum</TemplateFont>
+            <TemplateName>catalyst</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/ANAMARIA D/Documents/Apartments Donkov dvori/images/Apartman 2 - TROGIR/cde557_living_01edited.jpg</url>
+                <filesize>179251</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/ANAMARIA D/Documents/Apartments Donkov dvori/images/Apartman 2 - TROGIR/cde557_associated_01edited.JPG</url>
+                <filesize>261038</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/ANAMARIA D/Documents/Apartments Donkov dvori/images/Apartman 2 - TROGIR/cde557_living_02edited.JPG</url>
+                <filesize>159127</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/ANAMARIA D/Documents/Apartments Donkov dvori/images/Apartman 2 - TROGIR/cde557_view_01edited.JPG</url>
+                <filesize>307333</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/ANAMARIA D/Documents/Apartments Donkov dvori/images/Apartman 2 - TROGIR/cde557_associated_02edited.JPG</url>
+                <filesize>271417</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/ANAMARIA D/Documents/Apartments Donkov dvori/images/Apartman 2 - TROGIR/cde557_main_01edited.JPG</url>
+                <filesize>239485</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/ANAMARIA D/Documents/Apartments Donkov dvori/images/Apartman 2 - TROGIR/cde557_indoor_01edited.JPG</url>
+                <filesize>219771</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/ANAMARIA D/Documents/Apartments Donkov dvori/images/Apartman 2 - TROGIR/cde557_bed_03edited.JPG</url>
+                <filesize>178978</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/ANAMARIA D/Documents/Apartments Donkov dvori/images/Apartman 2 - TROGIR/cde557_bed_02edited.JPG</url>
+                <filesize>163990</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/ANAMARIA D/Documents/Apartments Donkov dvori/images/Apartman 2 - TROGIR/cde557_bed_01edited.JPG</url>
+                <filesize>151974</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/ANAMARIA D/Documents/Apartments Donkov dvori/images/Apartman 2 - TROGIR/cde557_associated_04edited.JPG</url>
+                <filesize>310935</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/ANAMARIA D/Documents/Apartments Donkov dvori/images/Apartman 2 - TROGIR/cde557_kitchen_03edited.JPG</url>
+                <filesize>154665</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/ANAMARIA D/Documents/Apartments Donkov dvori/images/Apartman 2 - TROGIR/cde557_kitchen_01edited.JPG</url>
+                <filesize>156611</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/ANAMARIA D/Documents/Apartments Donkov dvori/images/Apartman 2 - TROGIR/cde557_kitchen_02edited.JPG</url>
+                <filesize>182467</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/ANAMARIA D/Documents/Apartments Donkov dvori/images/Apartman 2 - TROGIR/cde557_associated_03edited.JPG</url>
+                <filesize>229760</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/ANAMARIA D/Documents/Apartments Donkov dvori/images/Apartman 2 - TROGIR/cde557_bath_01edited.JPG</url>
+                <filesize>237487</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/ANAMARIA D/Documents/Apartments Donkov dvori/images/Apartman 2 - TROGIR/cde557_associated_05edited.JPG</url>
+                <filesize>328438</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
